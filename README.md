@@ -7,3 +7,7 @@ Programming is like solving puzzles with endless possibilities. It's about craft
 In this repository, you'll discover snippets in various programming languages, each demonstrating different concepts and techniques. From basic syntax to advanced algorithms, there's something for everyone, whether you're exploring Python, Java, JavaScript, or any other language.
 
 So, dive in, explore, and don't be afraid to experiment. Let your curiosity guide you as you unravel the mysteries of programming. And remember, the best way to learn is by doing. So, grab your keyboard, fire up your favorite code editor, and let's embark on this coding adventure together!
+
+
+- [Functions, Return Types, and Parameters](https://github.com/dinethsiriwardana/Basic-Concepts-in-Programming/blob/main/Functions%2C%20Return%20Types%2C%20and%20Parameters.md)
+- [Using Objects as Return Types in Programming](https://github.com/dinethsiriwardana/Basic-Concepts-in-Programming/blob/main/Using%20Objects%20as%20Return%20Types%20in%20Programming.md)
